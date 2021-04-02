@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=threat0&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=threat0&layout=compact&theme=radical"/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=threat0&repo=compiler&theme=radical"/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=threat0&repo=Hack_twitter&theme=radical"/></br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=threat0&repo=threat0&theme=radical"/></br>
 </p>
 
 ```       
