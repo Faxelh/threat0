@@ -178,7 +178,9 @@
 		},
 		"emmet.showSuggestionsAsSnippets": true,
 		"css.fileExtensions": [
-			
+			"html",
+			"js",
+			"python",
 			"css",
 			"scss"
 		],
