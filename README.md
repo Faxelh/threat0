@@ -1,5 +1,4 @@
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api?username=threat0&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=threat0&layout=compact&theme=radical"/></br>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=threat0&repo=fb_down&theme=radical"/>
